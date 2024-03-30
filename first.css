@@ -1,0 +1,104 @@
+
+h4{
+color: orange;
+text-indent: 10px;
+line-height: 0px;
+}
+ .mind{
+    color: orange;
+    text-indent: 100px;
+ }
+ h1{
+    color: orange;
+    line-height: 0px;
+    text-indent: 30px;
+    line-height: 1px;
+    font-size: 50px;
+}
+    
+.head{
+    color: lemonchiffon;
+    position: absolute;
+    top: 330px;
+   right: 500px;
+font-size: 60px;
+
+
+    
+}
+h3{
+    color: orange;
+    
+    position: absolute;
+    top: 300px;
+   right: 600px;
+   
+    }
+button{
+    background-color: orange;
+    border-radius: 20px;
+    color: blue;
+}
+.b1{
+    background-color: transparent;
+    border-radius: 20px;
+    color: silver;
+}
+.hh{
+text-indent: 20px;
+position: absolute;
+    top: 800px;
+right: 700px;
+}
+.hh1{
+    text-indent: 30px;
+    position: absolute;
+    top: 850px;
+right: 780px;
+font-size: 15px;
+
+}
+
+
+body{
+    
+    
+background-image: url("R.jpeg");
+background-size: 1000px 600px;
+background-repeat: no-repeat;
+background-position: top left;
+background-attachment: scroll;
+background-position-x: 200px;
+background-position-y: 100px;
+margin-left: 200px;
+
+}
+.p1{
+    position: absolute;
+    top: 400px;
+    right: 400px;
+    text-align: center;
+    
+
+}
+.para{
+    position: absolute;
+    top: 900px;
+right: 520px;
+text-align: center;
+
+}
+.i1{
+    position: absolute;
+    top: 750px;
+right: 360px;
+height: 300px;
+width: 150px;
+}
+.i2{
+    position: absolute;
+    top: 750px;
+right: 200px;
+height: 300px;
+width: 150px;
+}
